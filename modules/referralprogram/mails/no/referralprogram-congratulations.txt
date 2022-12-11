@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Gratulerer!
+
+Din vervede venn {sponsored_firstname} {sponsored_lastname} har lagt inn sin første ordre på [{shop_name}]({shop_url})!
+
+Vi har gleden av å tilby deg en rabattkupong verdt {discount_display} (RABATTKUPONG-KODE {discount_name}) som du kan benytte ved din neste ordre.
+
+Vennlig hilsen,
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

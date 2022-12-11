@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Poštovani {firstname} {lastname},
+
+Povrat #{id_order_return} - ažurirano
+
+Ažurirali smo napredak vašeg povrata #{id_order_return}, novi status je: "{state_order_return}".
+
+Slijedite svoju narudžbu i preuzmite fakturu u našoj trgovini, idite na odjeljak [Povijest i detalji mojih narudžbi]({history_url}) svog korisničkog računa.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Hej,
+
+Besked fra kunde
+
+Du har modtaget en ny besked vedrørende ordren med referencen {order_name}.
+
+Kunde: {firstname} {lastname} ({email})
+
+Besked fra kunde:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

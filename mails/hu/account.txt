@@ -1,0 +1,29 @@
+ 
+
+{shop_url}
+
+Kedves {lastname} {firstname}!
+
+Köszönjük a regisztrációt!
+
+{shop_name} oldalon a bejelentkezési email címed
+
+Bejelentkezési adatok:
+
+Email cím: {email}
+
+Fontos biztonsági tanácsok:
+
+1. Mindig tartsd biztonságban a fiókadatokat.
+
+2. Soha ne oszd meg másokkal a belépési adataid.
+
+3. Rendszeresen cseréld a jelszavadat.
+
+4. Ha arra gyanakodsz, hogy valaki hozzáfér a fiókodhoz, vedd fel velünk a kapcsolatot.
+
+Most már leadhatod a rendelésedet: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

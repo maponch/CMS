@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Hei {firstname} {lastname},
+
+Rabattkupong-kode er laget
+
+Her er din nye rabattkupong-kode: {voucher_num}
+
+For å bruke koden, kopier og lim inn koden når du gjennomfører bestillingen.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

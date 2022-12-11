@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Szia,
+
+Üzenet a vásárlótól
+
+Új üzenetet kaptál a következő referenciaszámú rendeléshez: {order_name}.
+
+Vásárló: {firstname} {lastname} ({email})
+
+Vásárlói üzenet:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

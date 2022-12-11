@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Hei,
+
+Ny alarmmelding er lagret
+
+Advarsel: du har mottatt et nytt logg-varsel i administrasjonsmodulen.
+
+Du kan se etter den på seksjonen Avanserte parametre -> Logger i administrasjonsmodulen.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

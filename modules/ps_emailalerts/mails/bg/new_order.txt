@@ -1,0 +1,43 @@
+ 
+
+{shop_url}
+
+Поздравления!
+
+A new order was placed on {shop_name} by the following customer: {firstname} {lastname} ({email})
+
+Детайли за поръчка
+
+Поръчка: {order_name} Направена на {date}
+
+Плащане: {payment}
+
+Референция	Продукт	Единична цена	Количество	Обща цена   {items}
+Продукти	{total_products}
+Отстъпки	{total_discounts}
+Опаковане като подарък	{total_wrapping}
+Доставка	{total_shipping}
+Including total tax	{total_tax_paid}
+Общо платено	{total_paid}
+
+Превозвач
+
+Превозвач: {carrier}
+
+Плащане: {payment}
+
+Адрес за доставка
+
+{delivery_block_html}
+
+Адрес на плащане
+
+{invoice_block_html}
+
+Съобщение от клиента:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

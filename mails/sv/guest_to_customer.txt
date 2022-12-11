@@ -1,0 +1,20 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Ditt gästkonto har omvandlats till ett kundkonto
+
+Ditt gästkonto hos {shop_name} har omvandlats till ett kundkonto!
+
+E-postadress: {email}
+
+Klicka på följande länk för att ange ditt lösenord:
+{url}
+
+Du kan komma åt ditt kundkonto på vår butik: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

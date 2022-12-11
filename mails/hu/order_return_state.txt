@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Kedves {lastname} {firstname}!
+
+Rendelés visszaküldés #{id_order_return} - Frissítés
+
+Frissítettük #{id_order_return} visszatérítésünk folyamatát, az új állapot: "{state_order_return}".
+
+Rendelésed nyomon követheted, és letöltheted a számlát oldalunkon a [Rendelés előzmény és részletek]({history_url}) menüpont alatt a felhasználói fiókodban.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

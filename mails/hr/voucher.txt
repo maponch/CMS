@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Poštovani {firstname} {lastname},
+
+Narudžba {order_name} - Kupon kod generiran
+
+Drago nam je obavijestiti vas da je u vaše ime generiran bon za narudžbu s referencom {order_name}.
+
+KUPON: {voucher_num} u iznosu od {voucher_amount}
+
+Da biste ga koristili, samo kopirajte
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

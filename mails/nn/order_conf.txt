@@ -1,0 +1,45 @@
+ 
+
+{shop_url}
+
+Hei {firstname} {lastname},
+
+Takk for at du handler på {shop_name}!
+
+Ordredetaljar
+
+Ordre: {order_name} Utført den {date}
+
+Betaling: {payment}
+
+Referanse	Produkt	Stykkpris	Antall	Totalsum  {products_txt} {discounts_txt}
+Produkt	{total_products}
+Avslag	{total_discounts}
+Gåveinnpakking	{total_wrapping}
+Frakt	{total_shipping}
+Inkludert mva	{total_tax_paid}
+Samla sum	{total_paid}
+
+Frakt
+
+Transportør: {carrier}
+
+Betaling: {payment}
+
+Recycled packaging: {recycled_packaging_label}
+
+Leveringsadresse
+
+{delivery_block_txt}
+
+Fakturaadresse
+
+{invoice_block_txt}
+
+Follow your order and download your invoice on our shop, go to the [Ordreistorie og ordredetaljar]({history_url}) section of your customer account.
+
+If you have a guest account, you can follow your order via the [Gjestesporing]({guest_tracking_url}) section on our shop.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

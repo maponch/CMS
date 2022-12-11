@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Szia,
+
+{product} már majdnem elfogyott.
+
+Már csak kevesebb mint {last_qty} darab van készleten.
+
+Fennmaradó készlet: {qty}
+
+Töltsd fel a raktárkészlet, amit megtehetsz a Katalógus > Készletkezelés szekció alatt a háttérirodában.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

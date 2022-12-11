@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+Poštovani {firstname} {lastname},
+
+Ovo je probni email iz Vaše trgovine.
+
+Ako možete ovo pročitati, test je bio uspješan!
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

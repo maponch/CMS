@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Hei,
+
+{product} er snart tomt på lager.
+
+Det er nå færre enn {last_qty} på lager.
+
+Gjenværende beholdning: {qty}
+
+Oppdater ditt varelager, gå til Katalog > Varelager i administrasjonsmodulen for å håndtere lageret ditt.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

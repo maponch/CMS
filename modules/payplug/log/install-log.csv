@@ -1,0 +1,3 @@
+DATETIME,ERRORLEVEL,TAG,VALUE,LINE,FILE
+"2022-12-11 20:16:10",INFO,--,"Installation SQL Starting.",50,"C:\wamp64\www\prestashop\modules\payplug\src\repositories\SQLtableRepository.php"
+"2022-12-11 20:16:10",INFO,--,"Installation SQL ended.",255,"C:\wamp64\www\prestashop\modules\payplug\src\repositories\SQLtableRepository.php"

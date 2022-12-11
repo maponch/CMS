@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+{firstname_friend} {lastname_friend}, Bli en av oss!
+
+Din venn {firstname} {lastname} vil gjerne henvise deg til [{shop_name}]({shop_url})!
+
+Vi har gleden av å tilby deg en rabattkupong verdt {discount} som du kan benytte ved din neste ordre. Bli vervet og få en rabattkupong på {discount}!
+
+[Det er veldig enkelt å registrere seg. Bare klikk her!]({link})
+
+Når du registrerer deg, ikke glem å legge inn e-postadressen til vennen som vervet deg: {email}.
+
+Venleg helsing,
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

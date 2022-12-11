@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Hei {firstname} {lastname},
+
+Tusen takk for bestillinga hjå {shop_name}. (Ordrereferanse: {order_name}.)
+
+Ordrenummer: {order_name} - Det behøves påfyll av vare
+
+Dessverre er en eller flere av varene ikke på lager akkurat nå. Dette kan medføre noe forsinkelse i forhold til levering. Vi beklager det inntrufne og arbeider hardt for å løse dette.
+
+Follow your order and download your invoice on our shop, go to the [Ordreistorie og ordredetaljar]({history_url}) section of your customer account.
+
+If you have a guest account, you can follow your order via the [Gjestesporing]({guest_tracking_url}) section on our shop.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

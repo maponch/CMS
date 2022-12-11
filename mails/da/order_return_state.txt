@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Ordrereturnering #{id_order_return} - Opdatering
+
+Vi har opdateret status vedrørende returnering #{id_order_return}. Ny status er: "{state_order_return}".
+
+Følg din ordre og download din faktura i vores shop, gå til sektionen [Mine ordrer]({history_url}) under din kundekonto.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

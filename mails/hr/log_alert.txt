@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Poštovani,
+
+Spremljena je nova poruka upozorenja
+
+Pažnja: dobili ste novo upozorenje u vašoj administraciji.
+
+Možete to provjeriti u odjeljku  Napredni parametri> Zapisnici vašeg pomoćnog ureda.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

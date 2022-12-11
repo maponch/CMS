@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Hei {firstname} {lastname},
+
+Melding frå {shop_name}
+
+Du har mottatt en ny melding fra {shop_name} vedrørende ordre med referanse {order_name}.
+
+Melding:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

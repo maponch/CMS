@@ -1,0 +1,23 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Din varukorg hos {shop_name}
+
+Tack för ditt besök. Kanske glömde du att slutföra ditt köp.
+
+Din varukorg har blivit sparad, du kan fortsätta din order genom att besöka vår shop: {shop_url}
+
+Vi är glada att kunna erbjuda en rabatt på {amount}% på nästa beställning! Detta erbjudande gäller i {days} dagar, så slösa inte ett enda ögonblick!
+
+Din rabattkod hos {shop_name}
+
+Här är din rabattkod: {voucher_num}
+
+Ange denna kod i kassan för att få din rabatt.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

@@ -1,0 +1,12 @@
+ 
+
+{shop_url}
+
+Poštovani,
+
+Zahvaljujemo na pretplati na naš bilten. Kliknite sljedeću vezu da biste potvrdili svoj zahtjev:
+{verif_url}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

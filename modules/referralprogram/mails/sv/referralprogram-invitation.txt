@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+{firstname_friend} {lastname_friend}, Anslut till oss!
+
+Din vän {firstname} {lastname} vill hänvisa dig till [{shop_name}]({shop_url})!
+
+Vi är glada att kunna erbjuda dig en rabattkupong värd {discount} som du kan använda vid nästa beställning. Hänvisas och få en rabattkupong på {discount}!!
+
+[Det är väldigt lätt att registrera sig, klicka bara här!]({link})
+
+När du registrerar dig, glöm inte att ange den e-postadress som din vän hänvisade dig ifrån: {email}.
+
+Vänliga hälsningar,
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Ordre ID {order_name} - Refundering behandlet
+
+Vi har behandlet din refundering for ordren med referencen {order_name} fra {shop_name}.
+
+Følg din ordre og download din faktura i vores shop, gå til sektionen [Mine ordrer]({history_url}) under din kundekonto.
+
+Hvis du har en gæstekonto, så kan du følge din ordre via sektionen [Gæstesporing]({guest_tracking_url}) på vores webshop.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

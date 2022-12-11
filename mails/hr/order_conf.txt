@@ -1,0 +1,45 @@
+ 
+
+{shop_url}
+
+Poštovani {firstname} {lastname},
+
+Hvala vam za kupovinu na {shop_name}!
+
+Detalji narudžbe
+
+Narudžba: {order_name} Smješteni su na {date}
+
+Plaćanje: {payment}
+
+Referenca	Proizvod	Jedinična cijena	Količina	Ukupna cijena  {products_txt} {discounts_txt}
+Proizvodi	{total_products}
+Popusti	{total_discounts}
+Poklon-umatanje	{total_wrapping}
+Dostava	{total_shipping}
+Uključujući ukupni porez	{total_tax_paid}
+Ukupno plaćeno	{total_paid}
+
+Dostava
+
+Dostavljač: {carrier}
+
+Plaćanje: {payment}
+
+Recycled packaging: {recycled_packaging_label}
+
+Adresa za dostavu
+
+{delivery_block_txt}
+
+Adresa za račun
+
+{invoice_block_txt}
+
+Slijedite svoju narudžbu i preuzmite fakturu u našoj trgovini, idite na odjeljak [Povijest i detalji mojih narudžbi]({history_url}) svog korisničkog računa.
+
+Ako imate račun gosta, svoju narudžbu možete pratiti putem odjeljka [Praćenje gosta]({guest_tracking_url}) u našoj trgovini.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

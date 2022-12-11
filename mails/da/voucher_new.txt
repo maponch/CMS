@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Værdikoden er blevet genereret
+
+Her er din nye værdikode: {voucher_num}
+
+For at anvende den, så skal du blot kopiere/indsætte koden under udtjek.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

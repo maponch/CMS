@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Kedves {lastname} {firstname}!
+
+Köszönjük a vásárlást! {shop_name}
+
+{order_name} azonosítójú megrendelésed fizetése sikeresen feldolgozva.
+
+Rendelésed nyomon követheted, és letöltheted a számlát oldalunkon a [Rendelés előzmény és részletek]({history_url}) menüpont alatt a felhasználói fiókodban.
+
+Amennyiben vendégként rendeltél, a rendelés állapotát a [Vendég-követés]({guest_tracking_url}) menüpont alatt tudod nyomon követni.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

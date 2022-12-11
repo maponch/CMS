@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Kedves {lastname} {firstname}!
+
+Köszönjük a bizalmat.
+
+Szeretnénk felajánlani neked {amount}% kedvezményt a következő rendelésedhez! Érvényessége {days} nap, használd fel mielőbb!
+
+Íme a KUPON KÓDOD: {voucher_num}
+
+Írd be ezt a kódot bevásárlókosaradban a kedvezmény érvényesítéséhez!
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

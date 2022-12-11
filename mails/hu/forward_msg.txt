@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Kedves {lastname} {firstname}!
+
+Ügyfélszolgálat - Továbbított beszélgetés
+
+{employee} megosztaná veled a következő beszélgetést.
+
+Megbeszélés előzmény: {messages}
+
+{employee} üzenete: {comment}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

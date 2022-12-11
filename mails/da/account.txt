@@ -1,0 +1,29 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Tak for at du oprettede en konto hos {shop_name}
+
+Din log på detaljer på {shop_name}
+
+Her er dine login oplysninger:
+
+E-mail adresse: {email}
+
+Vigtige sikkerhedstips:
+
+1. Pas altid på dine login oplysninger.
+
+2. Udlever aldrig dine login oplysninger til andre.
+
+3. Skift dit kodeord regelmæssigt.
+
+4. Tror du at nogen misbruger din konto, da kontakt os omgående.
+
+Du kan nu bestille i vores shop: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

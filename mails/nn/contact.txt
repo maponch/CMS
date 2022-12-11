@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Melding frå ein kunde hjå {shop_name}
+
+Kundens e-postadresse: {email}
+
+Ordrenummer:  {order_name}
+
+Vedlagt fil: {attached_file}
+
+Kundemelding:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

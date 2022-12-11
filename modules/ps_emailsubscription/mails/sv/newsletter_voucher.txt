@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+Hej,
+
+Prenumererar på nyhetsbrev
+
+Tack för att du prenumererar på vårt nyhetsbrev. Vi är glada att kunna erbjuda dig följande rabattkod: {discount}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

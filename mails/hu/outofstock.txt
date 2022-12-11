@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Kedves {lastname} {firstname}!
+
+Köszönjük {order_name} referenciaszámú {shop_name} rendelésed!
+
+Rendelés azonosító: {order_name} - Utánpótlás szükséges
+
+Sajnálatos módon egy vagy több tétel nincs készleten. Ez okozhat némi késést a teljesítésben. Elnézést kérünk a kellemetlenségért. Biztosíthatunk róla, hogy keményen dolgozunk a megoldásán!
+
+Rendelésed nyomon követheted, és letöltheted a számlát oldalunkon a [Rendelés előzmény és részletek]({history_url}) menüpont alatt a felhasználói fiókodban.
+
+Amennyiben vendégként rendeltél, a rendelés állapotát a [Vendég-követés]({guest_tracking_url}) menüpont alatt tudod nyomon követni.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

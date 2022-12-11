@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Retur #{id_order_return} - uppdatering
+
+Vi har uppdaterat statusen på din retur #{id_order_return}, den nya statusen är: "{state_order_return}".
+
+Följ din order och ladda ned din faktura från sektionen [Min orderhistorik]({history_url}) på ditt kundkonto.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

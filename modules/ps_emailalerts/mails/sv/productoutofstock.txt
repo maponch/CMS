@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Hej,
+
+{product} är nästan slut i lager.
+
+Det finns nu mindre än {last_qty} antal i lager.
+
+Resterande lager: {qty}
+
+Fyll på lager, gå till Katalog -> Lager i backoffice för att hantera ditt lager.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

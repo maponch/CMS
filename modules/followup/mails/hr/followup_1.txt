@@ -1,0 +1,23 @@
+ 
+
+{shop_url}
+
+Poštovani {firstname} {lastname},
+
+Vaša košarica u {shop_name}
+
+Hvala na posjeti. Međutim, čini se da niste dovršili kupnju.
+
+Vaša košarica je spremljena, možete pregledati svoju narudžbu posjetom naše trgovine: {shop_url}
+
+Zadovoljstvo nam je ponuditi Vam popust od {amount}% prilikom vaše iduće narudžbe! Ova ponuda vrijedi {days} dana, dakle ne gubite vrijeme!
+
+Vaš kupon kod na {shop_name}
+
+Ovo je Vaš KUPON KOD: {voucher_num}
+
+Unesite ovaj kod u vašoj košarici kako bi dobili popust.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

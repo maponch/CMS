@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Order ID {order_name} - Kreditslipp
+
+En kreditfaktura har skapats i ditt namn som ett resultat av din beställning med referens {order_name}.
+
+Granska denna kreditnota och ladda ned din faktura från avdelningen [Kreditslipp]({history_url}) på ditt kundkonto.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

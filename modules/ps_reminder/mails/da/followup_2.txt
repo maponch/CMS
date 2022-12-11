@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Tak for din ordre.
+
+Vi er glade for at kunne tilbyde dig en rabat på {amount}% på din næste ordre. Dette tilbud er gyldigt i {days} dage, så spild ikke tiden!
+
+Her er din VÆRDIKODE: {voucher_num}
+
+Angiv denne kode i din indkøbskurv for at få rabatten.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

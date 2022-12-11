@@ -1,0 +1,23 @@
+ 
+
+{shop_url}
+
+Kedves {lastname} {firstname}!
+
+{shop_name} kosarad
+
+Köszönjük látogatásodat. Azt vettük észre, hogy nem fejezted be a vásárlást.
+
+Kosarad elmentettük, így a boltunkba visszatérhetsz a rendelésedhez: {shop_url}
+
+Szeretnénk felajánlani neked {amount}% kedvezményt a következő rendelésedhez! Érvényessége {days} nap, használd fel mielőbb!
+
+{shop_name} kupon kódod
+
+Íme a KUPON KÓDOD: {voucher_num}
+
+Írd be ezt a kódot bevásárlókosaradban a kedvezmény érvényesítéséhez!
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

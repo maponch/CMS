@@ -1,0 +1,31 @@
+ 
+
+{shop_url}
+
+Здрасти,
+
+Имате нова заявка за връщане от {shop_name}.
+
+Return Details
+
+Поръчка: {order_name} Направена на {date}
+
+Клиент: {firstname} {lastname}, ({email})
+
+Референция	Продукт	Количество   {items}
+
+Адрес за доставка
+
+{delivery_block_html}
+
+Адрес на плащане
+
+{invoice_block_html}
+
+Съобщение от клиента:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

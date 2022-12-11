@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Hej,
+
+{product} er næsten udgået fra lageret.
+
+Der er nu mindre end {last_qty} emner på lager.
+
+Antal tilbage: {qty}
+
+Genopfyld dit lager, gå til Katalog > Lager sektionen i dit back office for at styre dit lager.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

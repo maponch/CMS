@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Meddelande från en kund hos {shop_name}
+
+Kundens e-postadress: {email}
+
+Order ID #:  {order_name}
+
+Bifogad fil: {attached_file}
+
+Kundmeddelande:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

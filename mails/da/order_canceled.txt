@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Ordre ID {order_name} - Ordre annulleret
+
+Din ordre med referencen {order_name} from {shop_name} er blevet annulleret af forhandleren.
+
+Gå til din kundekonto og lær mere om det.
+
+Hvis du har en gæstekonto, så kan du følge din ordre via sektionen [Gæstesporing]({guest_tracking_url}) på vores webshop.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

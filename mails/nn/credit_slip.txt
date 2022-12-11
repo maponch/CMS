@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Hei {firstname} {lastname},
+
+Ordrenummer: {order_name} - Kredittsetel
+
+En kreditnota er blitt laget i ditt navn for denne ordren: {order_name}.
+
+Review this credit slip and download your invoice on our shop, go to the [Kredittsetlar]({history_url}) section of your customer account.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

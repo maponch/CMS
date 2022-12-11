@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Grattis!
+
+Din vän {sponsored_firstname} {sponsored_lastname} har lagt sin första order hos [{shop_name}]({shop_url})!
+
+Vi är glada att kunna erbjuda dig en rabattkupong värd {discount_display} (kupong # {discount_name}) som du kan använda vid nästa beställning.
+
+Vänliga hälsningar,
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

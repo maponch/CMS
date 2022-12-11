@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Szia,
+
+{product} elérhető.
+
+Jó hírünk van! Ez a termék újra elérhető.
+
+A következő hivatkozás megnyitja a termék oldalát, ahol meg is tudod rendelni: [{product}]({product_link})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

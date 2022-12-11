@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Poštovani {firstname} {lastname},
+
+Vaša poruka je uspješno poslana, hvala Vam na kontaktu!
+
+Narudžba ID #:  {order_name}
+
+Proizvod:  {product_name}
+
+Priložena datoteka: {attached_file}
+
+Odgovorit ćemo u najkraćem mogućem roku.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

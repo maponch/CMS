@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Poštovani {firstname} {lastname},
+
+Narudžba {order_name} - Narudžba izmijenjena
+
+Vaša narudžba sa referencom  od {shop_name} je promijenjena od strane trgovca.
+
+Idite na svoj korisnički račun da biste saznali više o njemu.
+
+Ako imate račun gosta, svoju narudžbu možete pratiti putem odjeljka [Praćenje gosta]({guest_tracking_url}) u našoj trgovini.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

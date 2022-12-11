@@ -1,0 +1,21 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Din indkøbskurv på {shop_name}
+
+Tillykke, du er en af vore bedste kunder! Dog ser det ud som om at du ikke har afgivet en ordre i {days_threshold} dage.
+
+Indholdet af din indkøbskurv er blevet gemt og hvis du ønsker det, kan du fortsætte din bestilling ved at besøge vores hjemmeside: {shop_url}
+
+Vi er glade for at kunne tilbyde dig en rabat på {amount}% på din næste ordre. Dette tilbud er gyldigt i {days} dage, så spild ikke tiden!
+
+Her er din VÆRDIKODE: {voucher_num}
+
+Angiv denne kode i din indkøbskurv for at få rabatten.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

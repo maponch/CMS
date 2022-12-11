@@ -1,0 +1,29 @@
+ 
+
+{shop_url}
+
+Poštovani {firstname} {lastname},
+
+Hvala vam što ste otvorili korisnički račun na {shop_name}.
+
+Vaši podaci za prijavu na {shop_name}
+
+Ovdje su Vaši podaci za prijavu:
+
+Email adresa: {email}
+
+Važni sigurnosni savjeti:
+
+1. Uvijek imajte pojedinosti svog računa na sigurnom.
+
+2. Nikada, nikome ne otkrivajte svoje podatke za prijavu.
+
+3. Redovno mijenjajte svoju lozinku.
+
+4. Ukoliko sumnjate da netko nezakonito koristi vaš račun, molimo Vas da nas odmah obavijestite.
+
+Sada možete naručivati na našoj trgovini: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

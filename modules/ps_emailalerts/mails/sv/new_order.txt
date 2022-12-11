@@ -1,0 +1,43 @@
+ 
+
+{shop_url}
+
+Grattis!
+
+En ny order lades hos {shop_name} av följande kund: {firstname} {lastname} ({email})
+
+Order detaljer
+
+Order: {order_name} Skapad {date}
+
+Betalning: {payment}
+
+Referens	Produkt	Enhets pris	Kvantitet	Totalpris   {items}
+Produkter	{total_products}
+Rabatter	{total_discounts}
+Presentinslagning	{total_wrapping}
+Leverans	{total_shipping}
+Inkl. moms	{total_tax_paid}
+Totalt betalade	{total_paid}
+
+Leverantör
+
+Fraktalternativ {carrier}
+
+Betalning: {payment}
+
+Leveransadress
+
+{delivery_block_html}
+
+Faktura adress
+
+{invoice_block_html}
+
+Kundmeddelande:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

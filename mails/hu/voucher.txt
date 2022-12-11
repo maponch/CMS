@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Kedves {lastname} {firstname}!
+
+Rendelés azonosító: {order_name} - Kuponkód létrehozva
+
+Örömmel értesítünk, hogy kaptál egy kupont a(z) {order_name} azonosítójú megrendelésed miatt.
+
+Kuponkód: {voucher_num} a következő összegben: {voucher_amount}
+
+Úgy tudod felhasználni, hogy kimásolod, majd beilleszted ezt a kódot a megrendelés fizetési folyamata során.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Hei {firstname} {lastname},
+
+Din melding er mottatt hos oss, takk for at du skriver til oss!
+
+Ordrenummer:  {order_name}
+
+Produkt:  {product_name}
+
+Vedlagt fil: {attached_file}
+
+Vi vil svare deg så fort vi kan.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

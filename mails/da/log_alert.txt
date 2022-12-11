@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Hej,
+
+Ny alarmbesked gemt
+
+ADVARSEL: du har modtaget en ny log alarm i dit back office.
+
+Du kan se efter det under sektionen Avancerede parametre > Logs i dit back office.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Dobrý den {firstname} {lastname},
+
+Objednávka ID {order_name} - Chyba platby
+
+Při zpracování platby za objednávku s označením {order_name} v obchodě {shop_name} se vyskytla chyba. Kontaktujte nás co nejdříve prosím.
+
+Doručení lze očekávat ihned po přijetí platby.
+
+Tuto fakturu si můžete stáhnout a prohlédnout v našem obchodě. Přejděte do části [Historie a detaily mých objednávek]({history_url}) svého zákaznického účtu.
+
+Pokud máte účet hosta, svou objednávku můžete sledovat v našem obchodě v sekci [Sledování pro návštěvníky]({guest_tracking_url}).
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

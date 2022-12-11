@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Her er en test e-mail fra din shop.
+
+Hvis du kan læse dette, så betyder det at testen var succesfuld!
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

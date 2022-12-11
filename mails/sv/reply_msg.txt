@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+{reply}
+
+Svara inte på det här mailet, vi kommer inte att ta emot det. För att svara, använd följande länk: {link}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

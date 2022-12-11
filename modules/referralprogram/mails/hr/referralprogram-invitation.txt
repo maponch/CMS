@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+{firstname_friend} {lastname_friend}, Pridružite nam se!
+
+Vaš prijatelj {firstname}{lastname} želi vas pozvati na [{shop_name}]({shop_url})!
+
+Sa zadovoljstvom vam nudimo kupon u vrijednosti {discount} koji možete iskoristiti u vašoj sljedećoj narudžbi. Dovedite prijatelja i zaradite poklon kupon u vrijednosti od {discount}!
+
+[Vrlo se lako registrirati. Samo kliknite ovdje!]({link})
+
+Prilikom prijave, nemojte zaboravite unijeti e-mail adresu prijatelja: {email}.
+
+Srdačan pozdrav,
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

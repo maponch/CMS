@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+Hei,
+
+Abonnerer på nyhetsbrev
+
+Takk for at du abonnerer på vårt nyhetsbrev. Vi vil gjerne tilby deg denne rabattkupongen: {discount}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

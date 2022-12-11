@@ -1,0 +1,33 @@
+ 
+
+{shop_url}
+
+Poštovani {firstname} {lastname},
+
+Hvala vam za kupovinu na {shop_name}!
+
+Narudžba {order_name} - Čeka se plaćanje
+
+Vaša narudžba s referencom {order_name} je uspješno postavljena i bit će  isporučena nakon što primimo Vašu uplatu.
+
+Način plaćanja: uplata u banci
+
+Odabrali ste plaćanje putem uplate na račun. Evo informacija koje su vam potrebne za vaš prijenos:
+
+Iznos:  {total_paid}
+
+Vlasnik računa:  {bankwire_owner}
+
+Podaci o računu: {bankwire_details}
+
+Adresa banke: {bankwire_address}
+
+Navedite broj naloga u opisu bankovnoga plaćanja.
+
+Slijedite svoju narudžbu i preuzmite fakturu u našoj trgovini, idite na odjeljak [Povijest i detalji mojih narudžbi]({history_url}) svog korisničkog računa.
+
+Ako imate račun gosta, svoju narudžbu možete pratiti putem odjeljka [Praćenje gosta]({guest_tracking_url}) u našoj trgovini.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

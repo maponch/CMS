@@ -1,0 +1,31 @@
+ 
+
+{shop_url}
+
+Poštovani,
+
+Primili ste novi zahtjev za povrat {shop_name}.
+
+Detalji o povratu
+
+Narudžba: {order_name} Smješteni su na {date}
+
+Kupac: {firstname} {lastname}, ({email})
+
+Referenca	Proizvod	Količina   {items}
+
+Adresa za dostavu
+
+{delivery_block_html}
+
+Adresa za račun
+
+{invoice_block_html}
+
+Poruka od kupca:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

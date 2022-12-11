@@ -1,0 +1,31 @@
+ 
+
+{shop_url}
+
+Hej,
+
+Du har fått en ny returbegäran från {shop_name}.
+
+Returdetaljer
+
+Order: {order_name} Skapad {date}
+
+Kund: {firstname} {lastname}, ({email})
+
+Referens	Produkt	Kvantitet   {items}
+
+Leveransadress
+
+{delivery_block_html}
+
+Faktura adress
+
+{invoice_block_html}
+
+Kundmeddelande:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

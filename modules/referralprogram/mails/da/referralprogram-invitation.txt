@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+{firstname_friend} {lastname_friend}, Følg os!
+
+Din ven {firstname} {lastname} ønsker at henvise dig til [{shop_name}]({shop_url})!
+
+Vi er glade for at kunne tilbyde dig en rabatkupon på {discount} som du kan anvende på din næste ordre. Bliv henvist og tjen en rabatkupon på {discount}!
+
+[Det er meget nemt at tilmelde sig, bare klik her!]({link})
+
+Når du registrerer dig, så glem ikke at angive e-mail adressen på vennen der henviste dig: {email}.
+
+Med venlig hilsen,
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

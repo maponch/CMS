@@ -1,0 +1,33 @@
+ 
+
+{shop_url}
+
+Здравейте {firstname} {lastname},
+
+Благодарим Ви за пазаруване с {shop_name}!
+
+Order ID {order_name} - Pending payment
+
+Your order with the reference {order_name} has been placed successfully. You can expect delivery as soon as your payment is received.
+
+Payment method: bank wire
+
+You have decided to pay by bank wire. Here is the information you need for your transfer:
+
+Сума:  {total_paid}
+
+Притежател на сметката:  {bankwire_owner}
+
+Информация за сметката: {bankwire_details}
+
+Адрес на банката: {bankwire_address}
+
+Моля, посочете реф. № на поръчката в описанието на банковия превод.
+
+Follow your order and download your invoice on our shop, go to the [История на поръчките и подробности]({history_url}) section of your customer account.
+
+If you have a guest account, you can follow your order via the [Проследяване на поръчка като гост]({guest_tracking_url}) section on our shop.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

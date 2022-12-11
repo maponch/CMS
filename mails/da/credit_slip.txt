@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Ordre ID {order_name} - Kreditnota
+
+En kreditnota er blevet genereret i dit navn for ordren med referencen {order_name}.
+
+Gennemse denne kreditnota og download din faktura på vores shop, gå til sektionen [Kreditnotaer]({history_url}) på din kundekonto.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

@@ -1,0 +1,13 @@
+ 
+
+{shop_url}
+
+Kedves {lastname} {firstname}!
+
+Ez egy teszt email, amit a webshopod küldött.
+
+Mivel ezt el tudod olvasni, a teszt sikeres volt!
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

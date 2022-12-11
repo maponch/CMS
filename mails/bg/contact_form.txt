@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Здравейте {firstname} {lastname},
+
+Your message has been sent successfully, thank you for taking the time to write!
+
+Поръчка №:  {order_name}
+
+Продукт:  {product_name}
+
+Прикачен файл: {attached_file}
+
+Ще Ви отговорим възможно най-скоро.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

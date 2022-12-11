@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Tack för att du handlar hos {shop_name}!
+
+Din order med referens {order_name} har skickats.
+
+Följ din order och ladda ned din faktura från sektionen [Min orderhistorik]({history_url}) på ditt kundkonto.
+
+Om du har ett gästkonto, kan du följa din order via sektionen [Gästspårning]({guest_tracking_url}) i din shop.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

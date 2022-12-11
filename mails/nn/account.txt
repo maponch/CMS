@@ -1,0 +1,29 @@
+ 
+
+{shop_url}
+
+Hei {firstname} {lastname},
+
+Takk for at du har laga deg en konto hjå {shop_name}.
+
+Dine innloggingsdetaljer hos {shop_name}
+
+Her er innloggingsdataljene dine:
+
+E-postadresse: {email}
+
+Viktige sikkerheitsråd:
+
+1. Sørg for å alltid ha kontodetaljane dine på ein trygg stad.
+
+2. Kunngjer aldri innloggingsopplysningane dine til nokon.
+
+3. Byt passord med jamne mellomrom.
+
+4. Mistenkjer du at nokon nyttar seg av kontoen din utan løyve, må du varsla oss beinveges!
+
+Du kan nå handle i butikken: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

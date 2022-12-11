@@ -1,0 +1,45 @@
+ 
+
+{shop_url}
+
+Kedves {lastname} {firstname}!
+
+Köszönjük a vásárlást! — {shop_name}
+
+Rendelés adatai
+
+Rendelés: {order_name} Leadva {date}
+
+Fizetés: {payment}
+
+Cikkszám	Termék	Ár	Mennyiség	Összesen  {products_txt} {discounts_txt}
+Termék	{total_products}
+Kedvezmények	{total_discounts}
+Ajándék csomagolás	{total_wrapping}
+Szállítás	{total_shipping}
+A teljes adót is beleértve	{total_tax_paid}
+Összesen kifizetve	{total_paid}
+
+Szállítás
+
+Szállító: {carrier}
+
+Fizetés: {payment}
+
+Újrahasznosított csomagolás: {recycled_packaging_label}
+
+Postázási cím
+
+{delivery_block_txt}
+
+Számlázási cím
+
+{invoice_block_txt}
+
+Rendelésed nyomon követheted, és letöltheted a számlát oldalunkon a [Rendelés előzmény és részletek]({history_url}) menüpont alatt a felhasználói fiókodban.
+
+Amennyiben vendégként rendeltél, a rendelés állapotát a [Vendég-követés]({guest_tracking_url}) menüpont alatt tudod nyomon követni.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

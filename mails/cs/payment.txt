@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Dobrý den {firstname} {lastname},
+
+Děkujeme Vám za nákup v e-shopu {shop_name}!
+
+Vaše platba za objednávku s označením {order_name} byla úspěšně zpracována.
+
+Tuto fakturu si můžete stáhnout a prohlédnout v našem obchodě. Přejděte do části [Historie a detaily mých objednávek]({history_url}) svého zákaznického účtu.
+
+Pokud máte účet hosta, svou objednávku můžete sledovat v našem obchodě v sekci [Sledování pro návštěvníky]({guest_tracking_url}).
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

@@ -1,0 +1,43 @@
+ 
+
+{shop_url}
+
+Gratulálunk!
+
+{shop_name} oldalon új megrendelést adott le a következő vásárló: {firstname} {lastname} ({email})
+
+Rendelés adatai
+
+Rendelés: {order_name} Leadva {date}
+
+Fizetés: {payment}
+
+Cikkszám	Termék	Ár	Mennyiség	Összesen   {items}
+Termék	{total_products}
+Kedvezmények	{total_discounts}
+Ajándék csomagolás	{total_wrapping}
+Szállítás	{total_shipping}
+A teljes adót is beleértve	{total_tax_paid}
+Összesen kifizetve	{total_paid}
+
+Szállító
+
+Szállító: {carrier}
+
+Fizetés: {payment}
+
+Postázási cím
+
+{delivery_block_html}
+
+Számlázási cím
+
+{invoice_block_html}
+
+Vásárlói üzenet:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

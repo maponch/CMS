@@ -1,0 +1,29 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Tak for at du handlede hos {shop_name}!
+
+Ordre ID {order_name} - Afventer betaling med check
+
+Din ordre med referencen {order_name} er blevet afgivet korrekt. Du kan forvente levering, så snart at din betaling er modtaget.
+
+Betalingsmetode: check
+
+Du har besluttet at betale med check. Her er informationen som du skal bruge for at betale med check:
+
+Beløb:  {total_paid}
+
+Med beløbet til betaling:  {check_name}
+
+Send venligst din check til:  {check_address_html}
+
+Følg din ordre og download din faktura i vores shop, gå til sektionen [Mine ordrer]({history_url}) under din kundekonto.
+
+Hvis du har en gæstekonto, så kan du følge din ordre via sektionen [Gæstesporing]({guest_tracking_url}) på vores webshop.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

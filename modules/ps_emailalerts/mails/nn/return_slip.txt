@@ -1,0 +1,31 @@
+ 
+
+{shop_url}
+
+Hei,
+
+{shop_name} har motteke ein førespurnad angåande retur.
+
+Detaljer om returen
+
+Ordre: {order_name} Utført den {date}
+
+Kunde: {firstname} {lastname}, ({email})
+
+Referanse	Produkt	Antall   {items}
+
+Leveringsadresse
+
+{delivery_block_html}
+
+Fakturaadresse
+
+{invoice_block_html}
+
+Kundemelding:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

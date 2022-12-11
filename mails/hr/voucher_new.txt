@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Poštovani {firstname} {lastname},
+
+Kupon kod generiran
+
+Ovo je Vaš novi kupon kod {voucher_num}
+
+Da biste ga koristili, samo kopirajte
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

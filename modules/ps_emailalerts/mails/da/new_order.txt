@@ -1,0 +1,43 @@
+ 
+
+{shop_url}
+
+Tillykke!
+
+En ny ordre blev afgivet på {shop_name} af følgende kunde: {firstname} {lastname} ({email})
+
+Ordre detaljer
+
+Ordre: {order_name} afgivet {date}
+
+Betaling: {payment}
+
+Reference	Vare	Pris	Antal	Pris i alt   {items}
+Varer	{total_products}
+Rabatter	{total_discounts}
+Gaveindpakning	{total_wrapping}
+Levering	{total_shipping}
+Inklusiv total moms	{total_tax_paid}
+Betalt i alt	{total_paid}
+
+Leveringsfirma
+
+Levering: {carrier}
+
+Betaling: {payment}
+
+Leveringsadresse
+
+{delivery_block_html}
+
+Betalingsadresse
+
+{invoice_block_html}
+
+Besked fra kunde:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

@@ -1,0 +1,20 @@
+ 
+
+{shop_url}
+
+Здравейте {firstname} {lastname},
+
+Вашият профил на гост беше променен на клиентски
+
+Congratulations, your guest account for {shop_name} has been turned into a customer account!
+
+Имейл адрес: {email}
+
+Click on the following link to set up your password:
+{url}
+
+Можете да достъпите вашият клиентски профил в нашият магазин: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

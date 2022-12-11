@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Poruka od {shop_name} kupca
+
+Email adresa kupca: {email}
+
+Narudžba ID #:  {order_name}
+
+Priložena datoteka: {attached_file}
+
+Poruka od kupca:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

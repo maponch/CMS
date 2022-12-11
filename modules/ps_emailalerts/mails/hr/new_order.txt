@@ -1,0 +1,43 @@
+ 
+
+{shop_url}
+
+Čestitamo!
+
+Sljedeći je kupac poslao novu narudžbu na {shop_name} {firstname} {lastname} ({email})
+
+Detalji narudžbe
+
+Narudžba: {order_name} Smješteni su na {date}
+
+Plaćanje: {payment}
+
+Referenca	Proizvod	Jedinična cijena	Količina	Ukupna cijena   {items}
+Proizvodi	{total_products}
+Popusti	{total_discounts}
+Poklon-umatanje	{total_wrapping}
+Dostava	{total_shipping}
+Uključujući ukupni porez	{total_tax_paid}
+Ukupno plaćeno	{total_paid}
+
+Dostavljač
+
+Dostavljač: {carrier}
+
+Plaćanje: {payment}
+
+Adresa za dostavu
+
+{delivery_block_html}
+
+Adresa za račun
+
+{invoice_block_html}
+
+Poruka od kupca:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

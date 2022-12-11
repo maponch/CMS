@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Ditt meddelande har skickats, tack för att du tog dig tid att höra av dig!
+
+Order ID #:  {order_name}
+
+Produkt:  {product_name}
+
+Bifogad fil: {attached_file}
+
+Vi svarar så snart vi kan.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

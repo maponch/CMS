@@ -1,0 +1,16 @@
+ 
+
+{shop_url}
+
+Hei {firstname} {lastname},
+
+Sponsorprogram
+
+Vi har opprettet et gavekort i ditt navn fordi du vervet en venn.
+Her er koden for rabattkupongen: {voucher_num}, med en sum pålydende {voucher_num}
+
+Bare kopier/lim inn denne koden under betalingsprosessen for din neste ordre.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

@@ -1,0 +1,43 @@
+ 
+
+{shop_url}
+
+Gratulerer!
+
+En ny ordre ble lagt inn på {shop_name} av denne kunden: {firstname} {lastname} ({email})
+
+Ordredetaljar
+
+Ordre: {order_name} Utført den {date}
+
+Betaling: {payment}
+
+Referanse	Produkt	Stykkpris	Antall	Totalsum   {items}
+Produkt	{total_products}
+Avslag	{total_discounts}
+Gåveinnpakking	{total_wrapping}
+Frakt	{total_shipping}
+Inkludert mva	{total_tax_paid}
+Samla sum	{total_paid}
+
+Transportør
+
+Transportør: {carrier}
+
+Betaling: {payment}
+
+Leveringsadresse
+
+{delivery_block_html}
+
+Fakturaadresse
+
+{invoice_block_html}
+
+Kundemelding:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

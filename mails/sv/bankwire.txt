@@ -1,0 +1,33 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+Tack för att du handlar hos {shop_name}!
+
+Order ID {order_name} - Inväntar betalning
+
+Din order med referens {order_name} har lagts och kommer skickas så snart vi har mottagit din betalning.
+
+Betalningsmetod: banköverföring
+
+Du har valt att betala via banköverföring. Här är informationen du behöver för överföringen:
+
+Belopp:  {total_paid}
+
+Kontoägare:  {bankwire_owner}
+
+Kontouppgifter: {bankwire_details}
+
+Bankadress: {bankwire_address}
+
+Vänligen ange din beställningsreferens i banköverföringens beskrivning.
+
+Följ din order och ladda ned din faktura från sektionen [Min orderhistorik]({history_url}) på ditt kundkonto.
+
+Om du har ett gästkonto, kan du följa din order via sektionen [Gästspårning]({guest_tracking_url}) i din shop.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

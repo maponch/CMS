@@ -1,0 +1,29 @@
+ 
+
+{shop_url}
+
+Hei {firstname} {lastname},
+
+{shop_name} ønsker å takke deg for handelen! Vi håper du blir fornøyd og at vi hører fra deg igjen!
+
+Ordrenummer: {order_name} - Venter på sjekkbetaling
+
+Din ordre med referanse {order_name} er registrert. Vi vil sende varene så snart vi har registrert betalingen.
+
+Betalingsmetode: Sjekk
+
+Du har valgt å betale med sjekk. Her er informasjonen du trenger for å utføre betalingen:
+
+Beløp:  {total_paid}
+
+Betaling til og for:  {check_name}
+
+Send sjekken til:  {check_address_html}
+
+Follow your order and download your invoice on our shop, go to the [Ordrehistorikk og detaljer]({history_url}) section of your customer account.
+
+If you have a guest account, you can follow your order via the [Gjestesporing]({guest_tracking_url}) section on our shop.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

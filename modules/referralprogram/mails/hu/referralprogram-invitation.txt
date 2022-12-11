@@ -1,0 +1,19 @@
+ 
+
+{shop_url}
+
+{firstname_friend} {lastname_friend}, Csatlakozz hozzánk!
+
+{firstname} {lastname} nevű barátod ajánlani kíván [{shop_name}]({shop_url}) boltjánál!
+
+Örömmel értesítünk, hogy egy {discount} értékű kupont tudunk felajánlani a legközelebbi rendelésedhez. Ajánlással {discount} kedvezményhez tudsz jutni!
+
+[A regisztráció rendkívül könnyű, csak kattints ide!]({link})
+
+Regisztráláskor ne felejtsd el beírni az ajánló barát email címét: {email}.
+
+Üdvözlettel:
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

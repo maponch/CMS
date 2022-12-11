@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Hej,
+
+{product} er nu på lager.
+
+Gode nyheder, varen er nu på lager!
+
+Klik på følgende link for at besøge produktsiden og bestille den: [{product}]({product_link})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

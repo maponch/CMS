@@ -1,0 +1,31 @@
+ 
+
+{shop_url}
+
+Hej,
+
+Du har modtaget en ny returneringsforespørgsel for {shop_name}.
+
+Returneringsdetaljer
+
+Ordre: {order_name} afgivet {date}
+
+Kunde: {firstname} {lastname}, ({email})
+
+Reference	Vare	Antal   {items}
+
+Leveringsadresse
+
+{delivery_block_html}
+
+Betalingsadresse
+
+{invoice_block_html}
+
+Besked fra kunde:
+
+{message}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

@@ -1,0 +1,17 @@
+ 
+
+{shop_url}
+
+Kedves {lastname} {firstname}!
+
+Rendelés azonosító: {order_name} - Rendelés törölve
+
+{order_name} azonosítójú {shop_name} megrendelésedet töröltük.
+
+A felhasználói fiókodban további részleteket találsz.
+
+Amennyiben vendégként rendeltél, a rendelés állapotát a [Vendég-követés]({guest_tracking_url}) menüpont alatt tudod nyomon követni.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

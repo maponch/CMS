@@ -1,0 +1,33 @@
+ 
+
+{shop_url}
+
+Kedves {lastname} {firstname}!
+
+Köszönjük a vásárlást! {shop_name}
+
+Rendelés azonosító: {order_name} - Fizetés függőben
+
+{order_name} azonosítójú megrendelésedet sikeresen leadtad. Teljesítését azonnal megkezdjük, amint megérkezik a befizetésed.
+
+Fizetési mód: banki átutalás
+
+Banki átutalásos fizetési módot választottad. Az átutaláshoz szükséges adatok:
+
+Összeg:  {total_paid}
+
+Számlatulajdonos:  {bankwire_owner}
+
+Számla adatok: {bankwire_details}
+
+Bank címe: {bankwire_address}
+
+Kérlek, add meg a rendelés azonosítót a banki utalás közleményében.
+
+Rendelésed nyomon követheted, és letöltheted a számlát oldalunkon a [Rendelés előzmény és részletek]({history_url}) menüpont alatt a felhasználói fiókodban.
+
+Amennyiben vendégként rendeltél, a rendelés állapotát a [Vendég-követés]({guest_tracking_url}) menüpont alatt tudod nyomon követni.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

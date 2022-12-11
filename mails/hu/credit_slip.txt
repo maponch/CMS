@@ -1,0 +1,15 @@
+ 
+
+{shop_url}
+
+Kedves {lastname} {firstname}!
+
+Rendelés azonosító: {order_name} - Számlahelyesbítő
+
+{order_name} azonosítójú megrendelésedhez számlahelyesbítő készült.
+
+A számlahelyesbítő részleteit megtekintheted, és letöltheted a számlát oldalunkon a [Számlahelyesbítők]({history_url}) menüpont alatt a felhasználói fiókodban.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)

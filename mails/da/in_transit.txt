@@ -1,0 +1,21 @@
+ 
+
+{shop_url}
+
+Hej {firstname} {lastname},
+
+{meta_products}
+
+Ordre ID {order_name} - På vej
+
+Din ordre med referencen {order_name} er på vej.
+
+Du kan spore din pakke på følgende link: {followup}
+
+Følg din ordre og download din faktura i vores shop, gå til sektionen [Mine ordrer]({history_url}) under din kundekonto.
+
+Hvis du har en gæstekonto, så kan du følge din ordre via sektionen [Gæstesporing]({guest_tracking_url}) på vores webshop.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail&utm_campaign=footer_1-7)
