@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-11 20:23:34
+/* Smarty version 3.1.43, created on 2022-12-12 11:27:52
   from 'C:\wamp64\www\prestashop\themes\blck\templates\checkout\checkout-process.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63962e36d53df8_71897285',
+  'unifunc' => 'content_63970228d92e97_41206647',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63962e36d53df8_71897285 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63970228d92e97_41206647 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="checkout-process">
 <?php
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['steps']->value, 'step', false, 'index');

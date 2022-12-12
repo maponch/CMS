@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-11 20:23:29
+/* Smarty version 3.1.43, created on 2022-12-12 11:25:37
   from 'module:pscustomersigninpscustome' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63962e3152c235_70052142',
+  'unifunc' => 'content_639701a11bb2d6_40217625',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63962e3152c235_70052142 (Smarty_Internal_Template $_smarty_tpl) {
+function content_639701a11bb2d6_40217625 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="user-info header__rightitem">
   <?php if ($_smarty_tpl->tpl_vars['logged']->value) {?>
     <a

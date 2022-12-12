@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-11 20:23:28
+/* Smarty version 3.1.43, created on 2022-12-12 11:25:35
   from 'C:\wamp64\www\prestashop\themes\blck\templates\_partials\font.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63962e30b26572_09933423',
+  'unifunc' => 'content_6397019fc23169_92006975',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63962e30b26572_09933423 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6397019fc23169_92006975 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <link rel="preconnect" href="//fonts.gstatic.com/" crossorigin>
 <link rel="preconnect" href="//ajax.googleapis.com" crossorigin>

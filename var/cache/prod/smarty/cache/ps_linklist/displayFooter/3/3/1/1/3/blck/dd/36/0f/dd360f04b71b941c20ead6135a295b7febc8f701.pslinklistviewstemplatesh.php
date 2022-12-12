@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-11 20:23:30
+/* Smarty version 3.1.43, created on 2022-12-12 11:25:38
   from 'module:pslinklistviewstemplatesh' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63962e326f9071_52303643',
+  'unifunc' => 'content_639701a2045787_50188367',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,14 +18,14 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_63962e326f9071_52303643 (Smarty_Internal_Template $_smarty_tpl) {
+function content_639701a2045787_50188367 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
 ));
 ?>
       <div class="col-lg-3">
               <p class="footer__title footer__title--desktop">Produits</p>
-        <a href="#footer_sub_menu_86269" class="footer__title--mobile footer__title" data-toggle="collapse">Produits</a>
-      <ul id="footer_sub_menu_86269" class="collapse show" data-collapse-hide-mobile>
+        <a href="#footer_sub_menu_96621" class="footer__title--mobile footer__title" data-toggle="collapse">Produits</a>
+      <ul id="footer_sub_menu_96621" class="collapse show" data-collapse-hide-mobile>
                   <li>
             <a
                 id="link-product-page-prices-drop-1"
@@ -60,8 +60,8 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
     </div>
       <div class="col-lg-3">
               <p class="footer__title footer__title--desktop">Notre société</p>
-        <a href="#footer_sub_menu_37441" class="footer__title--mobile footer__title" data-toggle="collapse">Notre société</a>
-      <ul id="footer_sub_menu_37441" class="collapse show" data-collapse-hide-mobile>
+        <a href="#footer_sub_menu_56213" class="footer__title--mobile footer__title" data-toggle="collapse">Notre société</a>
+      <ul id="footer_sub_menu_56213" class="collapse show" data-collapse-hide-mobile>
                   <li>
             <a
                 id="link-cms-page-1-2"

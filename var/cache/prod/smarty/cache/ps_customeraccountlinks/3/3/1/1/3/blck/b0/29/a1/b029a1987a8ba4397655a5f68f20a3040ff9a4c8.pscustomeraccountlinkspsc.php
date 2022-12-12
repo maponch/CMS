@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-11 20:23:30
+/* Smarty version 3.1.43, created on 2022-12-12 11:25:38
   from 'module:pscustomeraccountlinkspsc' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63962e3281f983_87273211',
+  'unifunc' => 'content_639701a222fee1_01652266',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_63962e3281f983_87273211 (Smarty_Internal_Template $_smarty_tpl) {
+function content_639701a222fee1_01652266 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
 ));
 ?>
@@ -44,6 +44,11 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
             <li>
           <a href="http://localhost/prestashop/fr/adresses" title="Adresses" rel="nofollow">
             Adresses
+          </a>
+        </li>
+            <li>
+          <a href="http://localhost/prestashop/fr/reduction" title="Bons de réduction" rel="nofollow">
+            Bons de réduction
           </a>
         </li>
           <li>

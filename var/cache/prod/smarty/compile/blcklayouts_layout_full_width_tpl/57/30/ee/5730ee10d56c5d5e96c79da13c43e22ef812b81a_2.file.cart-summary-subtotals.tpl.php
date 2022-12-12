@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.43, created on 2022-12-11 20:23:36
+/* Smarty version 3.1.43, created on 2022-12-12 11:27:54
   from 'C:\wamp64\www\prestashop\themes\blck\templates\checkout\_partials\cart-summary-subtotals.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.43',
-  'unifunc' => 'content_63962e382d2997_21471313',
+  'unifunc' => 'content_6397022a98ee58_82736836',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_63962e382d2997_21471313 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6397022a98ee58_82736836 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="cart-summary-subtotals-container">
 
